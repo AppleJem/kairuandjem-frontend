@@ -17,7 +17,7 @@ function App() {
               <Avatar size="large" src={logo} />
             </div>
             <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
-              Welcome!
+              Welcome to KairuAndJem.com!
             </h1>
             <p className="mt-4 text-xl text-gray-500">
               This is a boilerplate build with Vite, React 18, TypeScript,
@@ -27,7 +27,7 @@ function App() {
           <div>
             <div className="my-10">
               <a
-                href="vscode://"
+                href="https://api.whatsapp.com/send?phone=6588852577&text=Hi%21%20Cool%20website%20%3AD"
                 className="inline-block rounded-md border border-transparent bg-indigo-600 px-8 py-3 text-center font-medium text-white hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-700 focus:ring-offset-2"
               >
                 Start building for free
